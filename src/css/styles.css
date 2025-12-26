@@ -915,7 +915,7 @@ ul {
 
 .pages h1 {
     font-family: var(--font-heading);
-    font-size: 3rem;
+    font-size: 1.8rem;
     margin-bottom: 40px;
     background: linear-gradient(90deg, var(--color-accent), var(--color-secondary));
     -webkit-background-clip: text;
